@@ -265,7 +265,16 @@ def uniq(key, sort=None):
 
 AREAS = ["Corporate finance", "Asset pricing", "Industrial org", "Blockchain/crypto"]
 METHODS = ["Theory", "Empirics", "Experimental", "Editorial"]
-journals = sorted({p["journal"] for p in papers if p["journal"]}, key=str.lower) + ["Working paper"]
+JOURNAL_ORDER = [   # order of the Journal menu (user's choice); unlisted journals follow alphabetically
+    "Journal of Finance", "Journal of Financial Economics", "Review of Financial Studies",
+    "Journal of Accounting and Economics", "Management Science", "Review of Finance",
+    "Journal of Financial and Quantitative Analysis", "Journal of Business", "Research Policy",
+    "Review of Corporate Finance Studies", "Journal of Corporate Finance", "Journal of Banking and Finance",
+    "Financial Management", "Journal of Financial Markets", "Review of Corporate Finance",
+    "Finance Research Letters", "Journal of Law, Finance, and Accounting",
+]
+journals = sorted({p["journal"] for p in papers if p["journal"]},
+                  key=lambda j: (JOURNAL_ORDER.index(j) if j in JOURNAL_ORDER else len(JOURNAL_ORDER), j.lower())) + ["Working paper"]
 areas = [a for a in AREAS if a in uniq("area")] + [a for a in uniq("area") if a not in AREAS]
 methods = [m for m in METHODS if m in uniq("method")] + [m for m in uniq("method") if m not in METHODS]
 cards = "".join(f"""<a class="card" href="post/{p['slug']}.html" data-tags="{esc('|'.join(card_tags(p)))}" data-search="{esc(search_text(p))}">
