@@ -189,8 +189,21 @@ def card_tags(p):
     return all_tags(p) + [p["journal"] or "Working paper"]
 
 
+JOURNAL_ABBR = {
+    "Journal of Finance": "jf", "Journal of Financial Economics": "jfe", "Review of Financial Studies": "rfs",
+    "Management Science": "ms mnsc", "Journal of Financial and Quantitative Analysis": "jfqa",
+    "Journal of Corporate Finance": "jcf", "Review of Finance": "rof rf", "Journal of Banking and Finance": "jbf",
+    "Journal of Financial Markets": "jfm", "Financial Management": "fm", "Finance Research Letters": "frl",
+    "Journal of Accounting and Economics": "jae", "Review of Corporate Finance Studies": "rcfs",
+    "Review of Corporate Finance": "rcf", "Research Policy": "rp", "Journal of Business": "jb",
+    "Journal of Law, Finance, and Accounting": "jlfa",
+}
+
+
 def search_text(p):
-    return " ".join([p["title"], ref_text(p), p["abstract"]] + card_tags(p)).lower()
+    """Lower-case text the search box looks in; journal abbreviations (JFE, RFS ...) are added as extra words."""
+    return " ".join([p["title"], ref_text(p), p["abstract"]] + card_tags(p)
+                    + [JOURNAL_ABBR.get(p["journal"], "")]).lower()
 
 
 # ---------- home ----------
