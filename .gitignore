@@ -1,0 +1,4 @@
+# Only files the built site uses are published (see tools/publish_list.py).
+# Everything else in this folder stays local.
+/*
+!/.gitignore

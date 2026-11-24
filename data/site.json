@@ -1,0 +1,171 @@
+{
+  "name": "Evgeny Lyandres",
+  "domain": "https://lyandres.com",
+  "roles": [
+    "Professor of Finance",
+    "The Isaac Gilinski Chair of Tech and Innovation",
+    "Finance Area Head",
+    "Editor of Journal of Corporate Finance"
+  ],
+  "affiliation": [
+    "Coller School of Management",
+    "Tel Aviv University"
+  ],
+  "email": "lyandres@tauex.tau.ac.il",
+  "phone": "+972 3 6407566",
+  "bio": [
+    "Evgeny Lyandres’ research focuses on the interaction between firms’ financial and operating strategies, and on the effects of product market competition on firms’ financial decisions, such as capital structure choices, M&A strategies and going-public choices. He is also interested in applications of real options theory to firms’ financial and investment decisions. Recently, his research focus has shifted largely to applications of blockchain technology in finance and to Decentralized Finance (DeFi).",
+    "His theoretical and empirical papers have been published in leading finance journals, such as the Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Management Science, Journal of Business, Review of Finance, and Journal of Financial and Quantitative Analysis, among many others, and have received numerous awards and prizes.",
+    "Evgeny serves as a Co-editor of the Journal of Corporate Finance and as an Associate Editor of several journals. He teaches courses on blockchain and DeFi at the BA, MSc, executive education, and PhD levels on four continents."
+  ],
+  "profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=z0GQOfcAAAAJ&hl=en"
+    },
+    {
+      "label": "SSRN",
+      "url": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=299948"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/evgeny-lyandres-29633311/"
+    }
+  ],
+  "links": [
+    {
+      "label": "Crypto and Blockchain Economics Research Forum",
+      "short": "CBER",
+      "url": "https://www.cber-forum.org/",
+      "menu": "Crypto and Blockchain Economics"
+    },
+    {
+      "label": "Finance, Organizations and Markets Research Group",
+      "short": "FOM",
+      "url": "https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group",
+      "menu": "Finance Organizations and Markets"
+    },
+    {
+      "label": "Finance Theory Group",
+      "short": "FTG",
+      "url": "https://financetheory.org/",
+      "menu": "Finance Theory"
+    },
+    {
+      "label": "Journal of Corporate Finance",
+      "short": "JCF",
+      "url": "https://www.sciencedirect.com/journal/journal-of-corporate-finance",
+      "menu": "Journal of Corporate Finance"
+    }
+  ],
+  "news": [
+    {
+      "date": "July 2026",
+      "text": "Israel Science Foundation Breakthrough grant for “Just-in-time Liquidity: Active Market Making in Passive Liquidity Pools”"
+    },
+    {
+      "date": "May 2026",
+      "text": "“Auditing Smart Contracts” accepted at the <em>Journal of Accounting and Economics</em>"
+    },
+    {
+      "date": "May 2026",
+      "text": "Raya Strauss Center for Family Business Research grant for “Liquidity in crisis: Debt relief through loan suspensions in Israel’s small business sector”"
+    },
+    {
+      "date": "February 2026",
+      "text": "Solomon Lew Center for Consumer Behavior grant for “Blockchain Solutions to Information Sharing Dilemma: Theory and Experiment”"
+    },
+    {
+      "date": "February 2026",
+      "text": "Hong Kong Institute for Monetary and Financial Research grant for “Just-in-time Liquidity: Active Market Making in Passive Liquidity Pools”"
+    },
+    {
+      "date": "December 2025",
+      "text": "Coller Foundation grant for “Market Efficiency and Capital Allocation Efficiency: The Case of DEXes”"
+    },
+    {
+      "date": "October 2025",
+      "text": "Keynote Speaker at the China International Exchange of Professionals Conference"
+    },
+    {
+      "date": "October 2025",
+      "text": "Safra Institute grant for “Quantitative Investments in Decentralized Finance”"
+    },
+    {
+      "date": "September 2025",
+      "text": "“Information Sharing with Blockchain” accepted at <em>Research Policy</em>"
+    },
+    {
+      "date": "July 2025",
+      "text": "Israel Science Foundation grant for “Quantitative Investments in Decentralized Finance”"
+    },
+    {
+      "date": "June 2025",
+      "text": "Kassirer Institute grant for “Information Sharing with Blockchain”"
+    },
+    {
+      "date": "December 2024",
+      "text": "Coller Foundation grant for “Auditing Decentralized Finance (DeFi) Protocols”"
+    },
+    {
+      "date": "October 2024",
+      "text": "Hong Kong Institute for Monetary and Financial Research grant for “Quantitative Investments in Decentralized Finance”"
+    },
+    {
+      "date": "September 2024",
+      "text": "Plenary Speaker at the NTU Blockchain Symposium"
+    },
+    {
+      "date": "July 2024",
+      "text": "Fintech Chair at Paris Dauphine University grant for “Auditing Decentralized Finance (DeFi) Protocols”"
+    },
+    {
+      "date": "July 2024",
+      "text": "Keynote address at the Quarterly Journal of Finance Forum, Shenzhen, China"
+    },
+    {
+      "date": "June 2024",
+      "text": "“Product Market Competition and Convertible Debt Financing” accepted at the <em>Review of Corporate Finance Studies</em>"
+    },
+    {
+      "date": "June 2024",
+      "text": "Kassirer Institute grant for “Auditing Decentralized Finance (DeFi) Protocols”"
+    },
+    {
+      "date": "May 2024",
+      "text": "“Trading Volume Manipulation and Competition among Centralized Crypto Exchanges” accepted at <em>Management Science</em>"
+    },
+    {
+      "date": "February 2024",
+      "text": "MIT-Israel Zuckerman STEM grant"
+    },
+    {
+      "date": "January 2024",
+      "text": "“Labor-replacing automation and finance” accepted at <em>Management Science</em>"
+    },
+    {
+      "date": "January 2024",
+      "text": "Keynote address at the Crypto Asset Lab Conference in Milan, Italy"
+    },
+    {
+      "date": "November 2023",
+      "text": "Coller Foundation grant for “Product Market Competition and Convertible Debt Financing”"
+    },
+    {
+      "date": "September 2023",
+      "text": "Safra Institute grant for “Does Market Efficiency Imply Capital Allocation Efficiency? The Case of DEXes”"
+    },
+    {
+      "date": "July 2023",
+      "text": "Fintech Chair at Paris Dauphine University grant for “Does Market Efficiency Imply Capital Allocation Efficiency? The Case of DEXes”"
+    },
+    {
+      "date": "July 2023",
+      "text": "Keynote address at the Quarterly Journal of Finance Forum, Guangzhou, China"
+    },
+    {
+      "date": "April 2023",
+      "text": "“Product Market Competition with Crypto Tokens and Smart Contracts” accepted at the <em>Journal of Financial Economics</em>"
+    }
+  ]
+}

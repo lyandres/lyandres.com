@@ -1,0 +1,1290 @@
+[
+ {
+  "slug": "decentralized-finance-from-intermediaries-to-protocols",
+  "title": "Decentralized finance: From intermediaries to protocols",
+  "status": "published",
+  "journal": "Review of Corporate Finance",
+  "detail": "forthcoming",
+  "year": null,
+  "month": 0,
+  "order": 0,
+  "coauthors": [
+   "Paul Momtaz",
+   "Daniel Rabetti",
+   "Silvio Vismara"
+  ],
+  "area": [
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Editorial"
+  ],
+  "topics": [
+   "Decentralized finance",
+   "Exchanges",
+   "Smart contracts"
+  ],
+  "abstract": "Decentralized finance (DeFi) represents a fundamental reconfiguration of financial intermediation, replacing traditional institutions with programmable protocols, token-based governance, and distributed consensus mechanisms. While often described as a technological innovation, DeFi raises core institutional questions about how capital is raised, how control rights are allocated, and how information is produced and enforced in the absence of centralized intermediaries. By embedding financial mechanisms directly into code and distributing control through tokens, DeFi provides a unique laboratory for revisiting foundational debates in corporate and entrepreneurial finance. Understanding this institutional reconfiguration is essential for assessing whether decentralized finance constitutes a transient experiment or a durable transformation of financial architecture. This editorial article synthesizes emerging insights from the literature and develops a forward-looking research agenda structured around decentralized entrepreneurial finance, protocol design, and governance and platform power.",
+  "pdf": "papers/decentralized-finance-from-intermediaries-to-protocols.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "managerial-horizon-an-llm-approach",
+  "title": "Managerial horizon: An LLM approach",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 1,
+  "coauthors": [
+   "Fangzhou Liu",
+   "Chen Xu"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Agency",
+   "Capital markets",
+   "Corporate investment",
+   "Innovation",
+   "Large language models"
+  ],
+  "abstract": "This paper develops a novel, large language model (LLM)–based measure of managerial horizon using managers’ language in earnings calls. Leveraging a hybrid GPT–BERT framework, we classify millions of transcript segments into performance, strategy, and activity content and construct a firm-quarter measure of managerial short-termism based on the relative emphasis on performance. Firms with more short-term–oriented managerial language exhibit lower R&D and capital investment, weaker innovation output, slower earnings growth, and poorer long-run stock performance. The effects are economically meaningful and strongest among opaque firms, demonstrating that narrative disclosure reveals managers’ intertemporal preferences and has real valuation implications.",
+  "pdf": "papers/managerial-horizon-an-llm-approach.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "innovations-and-shocks-to-industry-academia-collaboration",
+  "title": "Innovations and (shocks to) industry-academia collaboration",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 2,
+  "coauthors": [
+   "Anqi Jiao",
+   "Honglin Ren"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Corporate investment",
+   "Innovation"
+  ],
+  "abstract": "We examine how failures of academic integrity impact industry-university collaborations. Using university paper retractions as a shock to the credibility of upstream scientific knowledge, we show that retractions meaningfully weaken the innovative performance of connected firms. Firms linked to retracting universities experience decreases in both the quantity and quality of subsequent innovation, alongside a deterioration in the effectiveness of transformation of their R&D efforts into successful innovations. Capital markets respond negatively to retraction announcements, indicating that investors view these shocks as impairing firms’ innovation prospects. In addition, retractions disrupt ongoing collaborations and sharply reduce the formation of new industry-university partnerships. Overall, our findings reveal that scientific misconduct and related disruptions extend beyond academia: they hinder corporate innovation productivity and reshape firms’ strategies for accessing external knowledge. The results highlight scientific integrity as a foundational determinant of the functioning and resilience of collaborative innovation systems.",
+  "pdf": "papers/innovations-and-shocks-to-industry-academia-collaboration.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "advances-in-blockchain-based-finance-insights-from-the-special-i",
+  "title": "Advances in blockchain-based finance: Insights from the special issue",
+  "status": "published",
+  "journal": "Journal of Corporate Finance",
+  "detail": "97 (12), February 2026",
+  "year": 2026,
+  "month": 2,
+  "order": 3,
+  "coauthors": [],
+  "area": [
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Editorial"
+  ],
+  "topics": [
+   "Decentralized finance",
+   "Exchanges",
+   "Smart contracts"
+  ],
+  "abstract": "This special issue of the Journal of Corporate Finance brings together eleven papers that examine how blockchain technologies are reshaping modern financial systems. The contributions analyze decentralized markets, information provision, digital asset pricing, governance via smart contracts, and corporate implications of central bank digital currencies. The papers offer new empirical evidence on liquidity provision, oracle accuracy, investor behavior, and cross-asset information flows. They also develop theoretical foundations for automated market makers and for the incentive structures arising under proof-of-stake consensus. Finally, studies of China’s e-CNY pilot provide the first large-sample evidence on how programmable digital money affects firms’ liquidity management and adoption dynamics. Together, the papers highlight how blockchain creates new forms of intermediation, governance, and policy interaction that expand the research frontier in corporate finance.",
+  "pdf": "papers/advances-in-blockchain-based-finance-insights-from-the-special-i.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "financing-via-partially-liquid-claims",
+  "title": "Financing via partially liquid claims",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 4,
+  "coauthors": [
+   "Dan Luo",
+   "Yizhou Xiao"
+  ],
+  "area": [
+   "Corporate finance",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Capital structure"
+  ],
+  "abstract": "We develop a Diamond-Dybvig-style model in which a non-bank firm issues tokens backed by its future services. Consumers face uncertain liquidity demand and costly ex-post borrowing. Tokens are partially liquid–they provide liquidity for the firm’s service but not other consumption goods, creating an endogenous liquidity premium. This premium is influenced by the imperfect substitution between tokens and fully liquid claims, leading to a non-monotonic relationship with the cost of illiquidity. The issuing firm has a stronger incentive to issue tokens when it provides high-value services with infrequent demand or when the demand for the service is positively correlated with the demand for other consumption goods. In terms of token design, we characterize conditions under which the firm may offer consumers more flexibility in token issuance and redemption, potentially making tokens tradable. For tradable tokens, the firm may also permit conversion back to cash at a one-to-one rate, resembling stablecoins prevailing in practice.",
+  "pdf": "papers/financing-via-partially-liquid-claims.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "noisy-truth-beats-precise-lies-blockchain-enabled-information-eq",
+  "title": "Noisy truth beats precise lies: Blockchain-enabled information equilibria",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 5,
+  "coauthors": [
+   "Leo Bao",
+   "Ruize Sun"
+  ],
+  "area": [
+   "Industrial org",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "Smart contracts"
+  ],
+  "abstract": "Truth-telling is essential to efficient allocation of resources but is often undermined by strategic misreporting. We show how verifiably fair randomness, complemented by other blockchain functionalities, can lead to truth-telling at the cost of introduction of random noise in information transmission. The optimal trade-off between truthfulness and precision yields equilibria that outperform those attainable without randomization in information transmission. We characterize two classes of information equilibria: information designated to directly trigger value transfer via decentralized consensus (“enforcive information”), and strategic information sharing between Bayesian-rational decision makers (“advisive information”). Our findings demonstrate usefulness of randomized transmission in broad financial settings and illustrate the benefits of blockchain technology for optimal mechanism design.",
+  "pdf": "papers/noisy-truth-beats-precise-lies-blockchain-enabled-information-eq.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "trade-credit-and-renegotiation",
+  "title": "Trade credit and renegotiation",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 6,
+  "coauthors": [
+   "Jiri Chod"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Capital structure",
+   "Competition",
+   "Supply chain",
+   "Trade credit"
+  ],
+  "abstract": "The paper uncovers a novel benefit of trade credit financing: the elimination of agency frictions from renegotiation between a financially constrained buyer and a seller. The two parties agree on the price and quantity of a good to trade. If the buyer later receives an unfavorable demand signal, the two parties negotiate a partial return of the good to the seller. We compare the efficiency of the renegotiation and the initial trade agreement under bank financing and under trade credit financing. Whereas renegotiation under bank financing leads to risk shifting and inefficient outcomes, renegotiation under trade credit financing internalizes the interests of the lender, and results in the first-best equilibrium. This benefit of trade credit financing increases with demand uncertainty, precision of the demand signal, salvage value of the good, and the seller’s bargaining power vis-à-vis the buyer.",
+  "pdf": "papers/trade-credit-and-renegotiation.pdf",
+  "placeholder_pdf": false,
+  "note": "R&R at Journal of Financial Economics"
+ },
+ {
+  "slug": "strategies-returns-and-skill-in-decentralized-finance-evidence-f",
+  "title": "Strategies, returns, and skill in decentralized finance: Evidence from automated market making",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 7,
+  "coauthors": [
+   "Alex Zaidelson"
+  ],
+  "area": [
+   "Asset pricing",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Decentralized finance",
+   "Exchanges",
+   "Smart contracts"
+  ],
+  "abstract": "This paper performs a comprehensive empirical investigation of liquidity provision into concentrated liquidity (Uniswap V3) pools on the Ethereum blockchain. To examine the performance of liquidity provision strategies and their determinants, we reverse-engineer each liquidity pool’s history and measure every liquidity position’s return. We also decompose each position’s return into components, including core elements—non-concentrated liquidity provision and liquidity concentration. Returns to the core components of liquidity provision are negative on average but are mildly positive within the sample of frequent liquidity providers. Some liquidity providers seem to possess skill, as evidenced by persistence in performance, by learning from past experience, and by associations between several position and liquidity provider characteristics on one hand and performance on the other hand. We compare quantitative and discretionary liquidity provision strategies and their performance and find that quant liquidity providers significantly underperform discretionary ones. This underperformance cannot be fully traded to measurable differences in strategies of the two types of liquidity providers. Successful quant liquidity providers employ strategies that are largely similar to those of successful discretionary liquidity providers.",
+  "pdf": "papers/strategies-returns-and-skill-in-decentralized-finance-evidence-f.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "information-sharing-with-blockchain",
+  "title": "Information sharing with blockchain",
+  "status": "published",
+  "journal": "Research Policy",
+  "detail": "55 (7), 105496, September 2026",
+  "year": 2026,
+  "month": 9,
+  "order": 8,
+  "coauthors": [
+   "Christian Riis Flor",
+   "Stefan Hirth",
+   "Alexander Schandlbauer"
+  ],
+  "area": [
+   "Industrial org",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "Smart contracts"
+  ],
+  "abstract": "We analyze benefits and limitations of information sharing among product market rivals via a smart-contract-enabled blockchain. Firms face uncertain demand but obtain informative signals that can be reported to a blockchain, which ensures immutable recording but does not guarantee truthfulness. Truthful reporting is incentivized by requiring firms to post collateral (“stake”), which is forfeited if the report is deemed untruthful ex-post. We derive a) conditions under which truthful reporting arises in equilibrium and b) the necessary amount of collateral that ensures truthful reporting, and examine their comparative statics with respect to ex-ante demand uncertainty, signal precision, and competitive interaction among firms. While the collateral is returned to firms whose production decision is consistent with their report, financially constrained firms may struggle to afford the required stake. Thus, they are potentially unable to join the blockchain. We investigate conditions under which it is beneficial for firms to partially subsidize their rivals’ collateral costs. Finally, we examine welfare implications of information sharing via blockchain, and we show that such information sharing is welfare-improving.",
+  "pdf": "papers/information-sharing-with-blockchain.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "product-market-competition-and-equity-returns",
+  "title": "Product market competition and equity returns",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 9,
+  "coauthors": [
+   "Masahiro Watanabe"
+  ],
+  "area": [
+   "Asset pricing",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Capital markets",
+   "Competition"
+  ],
+  "abstract": "We develop an analytically tractable equilibrium model to examine the link between competition in product markets and stock returns. Firms maximize profits from the sale of their products to consumers. Investors receive firm profits as investment returns. We characterize firms’ optimal production plans and expected equity returns, and show that firm heterogeneity within an industry leads to differences in expected returns across firms. In particular, we demonstrate that the expected returns of firms with reliable products can decrease with competition. This is a distinguishing feature of our model with endogenous production which standard models of exogenous production will not deliver. We show empirically that the compensation for bearing cash flow risk resulting from competition in output markets is economically significant and that product market competition is associated with average returns in ways that are consistent with the model.",
+  "pdf": "papers/product-market-competition-and-equity-returns.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "auditing-smart-contracts",
+  "title": "Auditing smart contracts",
+  "status": "published",
+  "journal": "Journal of Accounting and Economics",
+  "detail": "forthcoming",
+  "year": null,
+  "month": 0,
+  "order": 10,
+  "coauthors": [
+   "Wayne Landsman",
+   "Edward Maydew",
+   "Daniel Rabetti",
+   "Che Zhang"
+  ],
+  "area": [
+   "Corporate finance",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Agency",
+   "Auditing",
+   "Decentralized finance",
+   "Smart contracts"
+  ],
+  "abstract": "This study provides descriptive evidence on the determinants and consequences of voluntary smart contract audits in decentralized finance (DeFi). Two types of auditors operate in the DeFi market: centralized auditors, who are hired on a fixed-fee basis, and decentralized auditors, often referred to as bounty hunters, who are compensated based on the vulnerabilities they identify. Our analysis draws on a dataset of thousands of centralized audit reports and hundreds of bounty programs linked to over 4,000 DeFi protocols launched between 2020 and 2025. We find that pre-launch audit adoption is systematically related to protocol-level design choices, risk exposure, and code characteristics. However, having an audit at protocol launch is not significantly associated with post-launch breach probability or hack-related losses. Although decentralized audits generally are complementary to centralized ones, the two types tend to become substitutes following systemic security breaches, such as the PolyNetwork hack. In particular, there is a significantly increased demand for decentralized audits, but the tendency is reduced for protocols that previously hired a top-tier auditor. Following protocol-level security breaches, compromised protocols often replace bottom-tier auditors with top-tier ones and hire decentralized auditors. In addition, auditors of hacked protocols incur short-term market losses that may be mitigated by effective crisis management. Overall, our findings suggest that top-tier centralized and decentralized auditing help sustain trust and resilience in decentralized finance.",
+  "pdf": "papers/auditing-smart-contracts.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "does-market-efficiency-impact-capital-allocation-efficiency-the",
+  "title": "Does market efficiency impact capital allocation efficiency? The case of decentralized exchanges",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": 11,
+  "coauthors": [
+   "Alex Zaidelson"
+  ],
+  "area": [
+   "Asset pricing",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Decentralized finance",
+   "Exchanges"
+  ],
+  "abstract": "We examine the effect of market efficiency on the efficiency of capital allocation in the setting of decentralized exchanges of crypto assets. Utilizing data on nearly 100 million trades in concentrated liquidity pools on two leading blockchains, we construct a highly granular, capital market-based measure of capital allocation efficiency. We also design and implement a method of identifying market-efficiency-restoring arbitrage transactions among all blockchain transactions and construct arbitrage-based granular measures of market efficiency. We find that market efficiency has positive, economically and statistically significant, and causal impact on capital allocation efficiency.",
+  "pdf": "papers/does-market-efficiency-impact-capital-allocation-efficiency-the.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "product-market-competition-and-convertible-debt-financing",
+  "title": "Product market competition and convertible debt financing",
+  "status": "published",
+  "journal": "Review of Corporate Finance Studies",
+  "detail": "15 (1), 158-198, January 2026",
+  "year": 2026,
+  "month": 1,
+  "order": 12,
+  "coauthors": [
+   "Cheng Lei",
+   "Chris Veld",
+   "Ying Xia"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Capital structure",
+   "Competition",
+   "Convertible debt"
+  ],
+  "abstract": "We study the relation between product market competition and convertible debt financing. Competitive threats motivate firms to use convertible debt because the possibility of future conversion enhances financial flexibility. Consistent with this intuition, we find that the intensity of competitive threats is positively associated with convertible debt usage, at both the extensive and intensive margins. We further confirm our findings by using large tariff reductions as an exogenous shock to competition. When competitive threats rise, convertible debt issuers increase the probability of future conversion by including shorter call protection periods and tailoring a higher conversion sensitivity to stock performance.",
+  "pdf": "papers/product-market-competition-and-convertible-debt-financing.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "trading-volume-manipulation-and-competition-among-centralized-cr",
+  "title": "Trading volume manipulation and competition among centralized crypto exchanges",
+  "status": "published",
+  "journal": "Management Science",
+  "detail": "71 (10), 8604-8622, October 2025",
+  "year": 2025,
+  "month": 10,
+  "order": 13,
+  "coauthors": [
+   "Dan Amiram",
+   "Daniel Rabetti"
+  ],
+  "area": [
+   "Industrial org",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Competition",
+   "Exchanges"
+  ],
+  "abstract": "How competition affects manipulation by firms of information about important attributes of their products and how such information manipulation impacts firms’ short-term and long-term performance are open empirical questions. We use a setting that is especially suitable for answering these questions— centralized crypto exchanges, on which information manipulation takes the form of inflated trading volume. We find that static and dynamic competition measures are positively associated with volume inflation, indicating that competition may lead to increased information manipulation. Exchanges that manipulate volume obtain short-run benefits but are punished in the long run, consistent with the tradeoff between short-lived increases in rents and future losses due to damaged reputation.",
+  "pdf": "papers/trading-volume-manipulation-and-competition-among-centralized-cr.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "labor-replacing-automation-and-finance",
+  "title": "Labor-replacing automation and finance",
+  "status": "published",
+  "journal": "Management Science",
+  "detail": "71 (8), 6997-7028, August 2025",
+  "year": 2025,
+  "month": 8,
+  "order": 14,
+  "coauthors": [
+   "Xin Cheng",
+   "Kaiguo Zhou",
+   "Tong Zhou"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Automation",
+   "Capital structure",
+   "Corporate investment",
+   "Financial constraints"
+  ],
+  "abstract": "We examine the effects of adoption of labor-replacing automation technology on corporate financing. Empirically, using Chinese firm-level panel data on deployment of industrial robots as an example of such automation, we find that robot adoption increases leverage and reduces cost of debt. We hypothesize that the underlying reason is that being a substitute for labor, automation provides a hedge against fluctuations in labor costs. A model based on this hedging argument delivers additional testable predictions concerning determinants of the relation between automation and corporate financing. These relations are borne out in the data, providing support for the proposed mechanism. Our evidence is inconsistent with alternative channels behind the observed relations.",
+  "pdf": "papers/labor-replacing-automation-and-finance.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "product-market-competition-with-crypto-tokens-and-smart-contract",
+  "title": "Product market competition with crypto tokens and smart contracts",
+  "status": "published",
+  "journal": "Journal of Financial Economics",
+  "detail": "149 (1), July 2023",
+  "year": 2023,
+  "month": 7,
+  "order": 15,
+  "coauthors": [
+   "Jiri Chod"
+  ],
+  "area": [
+   "Industrial org",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "Smart contracts"
+  ],
+  "abstract": "This paper models benefits of quoting output price in units of crypto token under duopolistic product market competition with switching costs. Pricing output in tokens provides a firm with a de facto second-mover advantage, raising its equilibrium profit. In addition, the firm can further increase its equilibrium profit by committing via a smart contract to the number of tokens sold. By focusing on utility tokens used at the product market competition stage, the paper highlights potential benefits of issuing crypto tokens that extend beyond the advantages of issuing security tokens at the venture financing stage.",
+  "pdf": "papers/product-market-competition-with-crypto-tokens-and-smart-contract.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "initial-coin-offering-ico-success-and-post-ico-performance",
+  "title": "Initial coin offering (ICO) success and post-ICO performance",
+  "status": "published",
+  "journal": "Management Science",
+  "detail": "68 (12), December 2022",
+  "year": 2022,
+  "month": 12,
+  "order": 16,
+  "coauthors": [
+   "Dino Palazzo",
+   "Daniel Rabetti"
+  ],
+  "area": [
+   "Corporate finance",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Initial coin offerings"
+  ],
+  "abstract": "We compile a comprehensive data set of initial coin offerings (ICOs) from 19 data sources including 11 ICO aggregators. We alleviate severe limitations of available ICO data by performing the first systematic analysis of ICO data quality. We use our data set to study determinants of ICO funding success as well as post-ICO operating performance and provide evidence on some novel determinants of initial and longer-term ICO success. Finally, we show that post-ICO operating performance is positively associated with contemporaneous token returns and is generally negatively associated with token return volatility, suggesting that post-ICO operating performance has financial ramifications.",
+  "pdf": "papers/initial-coin-offering-ico-success-and-post-ico-performance.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "the-choice-between-various-freeze-out-procedures-and-its-consequ",
+  "title": "The choice between various freeze-out procedures and its consequences",
+  "status": "published",
+  "journal": "Journal of Law, Finance, and Accounting",
+  "detail": "6 (2), November 2021",
+  "year": 2021,
+  "month": 11,
+  "order": 17,
+  "coauthors": [
+   "Beni Lauterbach",
+   "Yevgeny Mugerman",
+   "Barak Yarkoni"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "M&As"
+  ],
+  "abstract": "We develop a model of freeze-out merger and tender offers and test it in an economy where merger and tender regulation are extremely different. Using a relatively large sample of 329 freeze-out offers in Israel during 2000-2019, we document evidence consistent with the model. We also find that tender offers: 1) are the preferred technique; 2) offer lower premiums; and 3) suffer from a relatively large (40%) offer rejection rate. These findings deviate from U.S. evidence, and are partly due to differences in the tender offer procedures. Thus, our study illustrates that the tender offer procedure is a delicate one, and explains why Delaware has often amended it.",
+  "pdf": "papers/the-choice-between-various-freeze-out-procedures-and-its-consequ.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "a-theory-of-icos-diversification-agency-and-information-asymmetr",
+  "title": "A theory of ICOs: Diversification, agency, and information asymmetry",
+  "status": "published",
+  "journal": "Management Science",
+  "detail": "67 (10), October 2021",
+  "year": 2021,
+  "month": 10,
+  "order": 18,
+  "coauthors": [
+   "Jiri Chod"
+  ],
+  "area": [
+   "Corporate finance",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Capital structure",
+   "Initial coin offerings"
+  ],
+  "abstract": "This paper develops a theory of financing of entrepreneurial ventures via crypto tokens, which is not limited to platform-based ventures. We compare token financing with traditional equity financing, focusing on agency problems and information asymmetry frictions associated with the two financing methods, as well as on risk sharing between entrepreneurs and investors. Token financing introduces an agency problem not present under equity financing (underproduction), while mitigating an agency problem often associated with equity financing (entrepreneurial effort underprovision). Our theory abstracts from all institutional and potentially transient differences between tokens and equity and is based on a single intrinsic characteristic of tokens: they represent claims to a venture’s output. We show that tokens are likely to dominate equity for ventures developing goods or services that involve low marginal production costs, those for which entrepreneurial effort is crucial, and/or those with relatively low payoff volatility. In addition, tokens can have an advantage over equity in signaling venture quality to outside investors.",
+  "pdf": "papers/a-theory-of-icos-diversification-agency-and-information-asymmetr.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "what-do-insiders-know-evidence-from-insider-trading-around-share",
+  "title": "What do insiders know? Evidence from insider trading around share repurchases and SEOs",
+  "status": "published",
+  "journal": "Journal of Corporate Finance",
+  "detail": "66 (2), February 2021",
+  "year": 2021,
+  "month": 2,
+  "order": 19,
+  "coauthors": [
+   "Peter Cziraki",
+   "Roni Michaely"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Insider trading",
+   "Investor sentiment",
+   "SEOs",
+   "Share repurchases"
+  ],
+  "abstract": "We examine the nature of information contained in insider trades prior to corporate events. Insiders’ net buying increases before open market share repurchase announcements and decreases before seasoned equity offers. Higher insider net buying is associated with better post-event operating performance, a reduction in undervaluation, and, for repurchases, lower post-event cost of capital. Insider trading also predicts announcement returns and long-term abnormal returns following events. Overall, our results suggest that insider trades before corporate events contain information about changes both in fundamentals and in investor sentiment.",
+  "pdf": "papers/what-do-insiders-know-evidence-from-insider-trading-around-share.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "does-the-market-correctly-value-investment-options",
+  "title": "Does the market correctly value investment options?",
+  "status": "published",
+  "journal": "Review of Finance",
+  "detail": "24 (6), November 2020",
+  "year": 2020,
+  "month": 11,
+  "order": 20,
+  "coauthors": [
+   "Egor Matveyev",
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance",
+   "Asset pricing"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Capital markets",
+   "Corporate investment",
+   "Real options"
+  ],
+  "abstract": "This paper shows that the stock market misprices firms’ investment options. We build a real options model of optimal investment under uncertainty to estimate the value of firms’ investment options. We show that firms with valuable investment options have a higher likelihood of being mispriced. Importantly, this mispricing is not one-sided, as such firms are equally likely to be undervalued or overvalued. Our paper adds to the debate on whether public equity markets are myopic and systematically undervalue innovative firms. We show that this is not necessarily the case.",
+  "pdf": "papers/does-the-market-correctly-value-investment-options.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "owners-portfolio-diversification-and-firm-investment",
+  "title": "Owners’ portfolio diversification and firm investment",
+  "status": "published",
+  "journal": "Review of Financial Studies",
+  "detail": "32 (12), December 2019",
+  "year": 2019,
+  "month": 12,
+  "order": 21,
+  "coauthors": [
+   "Maria Marchica",
+   "Roni Michaely",
+   "Roberto Mura"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Corporate investment",
+   "Personal investment"
+  ],
+  "abstract": "Portfolio diversification of firms’ controlling owners influences their firms’ capital investment. Empirically, the effect of owners’ portfolio diversification on their firms’ investment levels is positive for publicly traded firms and tends to be negative for privately held ones. These findings are consistent with predictions of a model in which a risk-averse investor simultaneously chooses her portfolio structure, and both the level and riskiness of capital investment of the firm she controls, and in which the firm can be potentially constrained in its capital investment choices. Overall, our results indicate that owners’ portfolio underdiversification and firms’ financial constraints can affect firms’ resource allocation.",
+  "pdf": "papers/owners-portfolio-diversification-and-firm-investment.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "inefficient-mergers",
+  "title": "Inefficient mergers",
+  "status": "published",
+  "journal": "Journal of Banking and Finance",
+  "detail": "108 (11), November 2019",
+  "year": 2019,
+  "month": 11,
+  "order": 22,
+  "coauthors": [
+   "Yelena Larkin"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Competition",
+   "M&As"
+  ],
+  "abstract": "Although complementarity between products and/or technologies of bidders and targets is considered a key driver of M&A deals, many observed mergers are inefficient: Complementarity gains in actual mergers are lower than the gains that could have been obtained were the targets acquired by different bidders. In this paper we propose a possible reason for the existence of inefficient mergers, which is based on search and information frictions. Our model examines three such frictions: target’s obsolescence risk, difficulties in evaluating complementarity gains, and competitive interaction among potential bidders in output markets. We test the model’s predictions using two established measures of complementarity gains in mergers: product similarity and technological overlap. Both sets of tests indicate that the degree of inefficiency in observed M&As is related to targets’ and bidders’ characteristics in ways consistent with the model’s predictions. More generally, our results suggest that search and value discovery are important determinants of merger outcomes.",
+  "pdf": "papers/inefficient-mergers.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "trade-credit-and-supplier-competition",
+  "title": "Trade credit and supplier competition",
+  "status": "published",
+  "journal": "Journal of Financial Economics",
+  "detail": "131 (3), March 2019",
+  "year": 2019,
+  "month": 3,
+  "order": 23,
+  "coauthors": [
+   "Jiri Chod",
+   "Alex Yang"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "Supply chain",
+   "Trade credit"
+  ],
+  "abstract": "This paper examines how competition among suppliers affects their willingness to provide trade credit financing. Trade credit extended by a supplier to a cash-constrained retailer allows the latter to increase cash purchases from its other suppliers, leading to a free rider problem. A supplier that represents a smaller share of the retailer’s purchases internalizes a smaller part of the benefit from increased spending by the retailer and, as a result, extends less trade credit relative to its sales. In consequence, retailers with dispersed suppliers obtain less trade credit than those whose suppliers are more concentrated. The free rider problem is especially detrimental to a trade creditor when the free-riding suppliers are its product market competitors, leading to a negative relation between product substitutability among suppliers to a given retailer and trade credit that the former provides to the latter. We test the model using both simulated and real data. The estimated relations are consistent with the model’s predictions and are statistically and economically significant.",
+  "pdf": "papers/trade-credit-and-supplier-competition.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "the-effects-of-horizontal-merger-operating-efficiencies-on-rival",
+  "title": "The effects of horizontal merger operating efficiencies on rivals, customers, and suppliers",
+  "status": "published",
+  "journal": "Review of Finance",
+  "detail": "23 (1), February 2019",
+  "year": 2019,
+  "month": 2,
+  "order": 24,
+  "coauthors": [
+   "Gennaro Bernile"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Competition",
+   "M&As",
+   "Supply chain"
+  ],
+  "abstract": "We study how operating efficiencies in horizontal mergers affect market reactions of merging firms’ rivals, customers, and suppliers. We measure operating efficiency gains using projections disclosed by merging firms’ insiders. Higher efficiency gains are associated with lower announcement returns to merging firms’ rivals (due to increased equilibrium output of merging firms), higher returns to their customers (due to lower equilibrium price of merging firms’ output), and higher returns to their suppliers (due to the merged firm’s higher equilibrium demand for inputs). Our results suggest that the pass-through of efficiency gains along merging firms’ supply chains is as important as the effects of post-merger changes in market power.",
+  "pdf": "papers/the-effects-of-horizontal-merger-operating-efficiencies-on-rival.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "do-underwriters-compete-in-ipo-pricing",
+  "title": "Do underwriters compete in IPO pricing?",
+  "status": "published",
+  "journal": "Management Science",
+  "detail": "64 (2), February 2018",
+  "year": 2018,
+  "month": 2,
+  "order": 25,
+  "coauthors": [
+   "Fangjian Fu",
+   "Xuenan Li"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "IPOs"
+  ],
+  "abstract": "We propose and implement a direct test of the hypothesis of oligopolistic competition in the U.S. underwriting market against the alternative of implicit collusion among underwriters. We construct a simple model of interaction between heterogeneous underwriters and heterogeneous firms and solve it under two alternative assumptions: oligopolistic competition among underwriters and implicit collusion among them. The two solutions lead to different equilibrium relations between the compensation of underwriters of different quality on one hand and the time-varying demand for public incorporation on the other hand. Our empirical results, obtained using 39 years of initial public offering (IPO) data, are generally consistent with the implicit collusion hypothesis that banks, especially larger ones, seem to internalize the effects of their underwriting fees and IPO pricing on their rivals.",
+  "pdf": "papers/do-underwriters-compete-in-ipo-pricing.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "cash-holdings-competition-and-innovation",
+  "title": "Cash holdings, competition, and innovation",
+  "status": "published",
+  "journal": "Journal of Financial and Quantitative Analysis",
+  "detail": "51 (6), December 2016",
+  "year": 2016,
+  "month": 12,
+  "order": 26,
+  "coauthors": [
+   "Dino Palazzo"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Cash",
+   "Competition",
+   "Corporate investment",
+   "Financial constraints",
+   "Innovation"
+  ],
+  "abstract": "We demonstrate theoretically and empirically that strategic considerations are important in shaping the cash policies of innovative firms. In our model, firms compete in product markets with uncertain structure using cash as a commitment device to invest in innovation. We show that firms’ equilibrium cash holdings are related to the expected intensity of competition. The sign and magnitude of this relation depends on firms’ financial constraints. Consistent with the strategic motive for hoarding cash, we show that firms’ cash holdings are negatively affected by their rivals’ cash-holding choices, even more so when competition is expected to be intense.",
+  "pdf": "papers/cash-holdings-competition-and-innovation.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "convertible-debt-and-investment-timing",
+  "title": "Convertible debt and investment timing",
+  "status": "published",
+  "journal": "Journal of Corporate Finance",
+  "detail": "24 (1), February 2014",
+  "year": 2014,
+  "month": 2,
+  "order": 27,
+  "coauthors": [
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Convertible debt",
+   "Corporate investment",
+   "Real options"
+  ],
+  "abstract": "In this paper we provide an investment-based explanation for the popularity of convertible debt. Specifically, we demonstrate the ability of convertible debt to alleviate and potentially totally eliminate the underinvestment problem of Myers (1977). A conversion feature induces shareholders to accelerate investment. This effect arises from the incentive of equity holders to accelerate the issuance of new equity, used to finance investment, since by investing early shareholders dilute the value of convertible debt holders by reducing their proportional claims to the firm’s cash flows. Since the underinvestment effect and the accelerated investment effect work in opposite directions, convertible debt allows to mitigate or completely eliminate the debt overhang problem. In addition, we show that by choosing the right combination of straight debt and convertible debt, shareholders can, for a wide range of overall debt levels, commit to the investment strategy of an all-equity firm.",
+  "pdf": "papers/convertible-debt-and-investment-timing.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "investment-opportunities-and-bankruptcy-prediction",
+  "title": "Investment opportunities and bankruptcy prediction",
+  "status": "published",
+  "journal": "Journal of Financial Markets",
+  "detail": "16 (3), August 2013",
+  "year": 2013,
+  "month": 8,
+  "order": 28,
+  "coauthors": [
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Bankruptcy/default",
+   "Corporate investment",
+   "Real options"
+  ],
+  "abstract": "A firm’s mix of growth options and assets in place is an important determinant of its optimal default strategy. Our simple model shows that shareholders of a firm with valuable investment opportunities would be able/willing to wait longer before defaulting on their contractual debt obligations than shareholders of an otherwise identical firm without such opportunities. More importantly, we show empirically using a dataset of recent corporate bankruptcies that measures of investment opportunities are significantly related to the likelihood of bankruptcy. Augmenting existing bankruptcy prediction models by these measures improves their out-of-sample forecasting ability.",
+  "pdf": "papers/investment-opportunities-and-bankruptcy-prediction.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "real-options-volatility-and-stock-returns",
+  "title": "Real options, volatility, and stock returns",
+  "status": "published",
+  "journal": "Journal of Finance",
+  "detail": "67 (4), August 2012",
+  "year": 2012,
+  "month": 8,
+  "order": 29,
+  "coauthors": [
+   "Gustavo Grullon",
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Asset pricing"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Real options"
+  ],
+  "abstract": "We provide evidence that the positive relation between firm-level stock returns and firm-level return volatility is due to firms’ real options. Consistent with real option theory, we find that the positive volatility-return relation is much stronger for firms with more real options and that the sensitivity of firm value to changes in volatility declines significantly after firms exercise their real options. We reconcile the evidence at the aggregate and firm levels by showing that the negative relation at the aggregate level may be due to aggregate market conditions that simultaneously affect both market returns and return volatility.",
+  "pdf": "papers/real-options-volatility-and-stock-returns.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "a-theory-of-strategic-mergers",
+  "title": "A theory of strategic mergers",
+  "status": "published",
+  "journal": "Review of Finance",
+  "detail": "16 (2), April 2012",
+  "year": 2012,
+  "month": 4,
+  "order": 30,
+  "coauthors": [
+   "Gennaro Bernile",
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "M&As",
+   "Real options"
+  ],
+  "abstract": "We examine firms’ strategic incentives to engage in horizontal mergers. In a real options framework, we show that strategic considerations may explain abnormally high takeover activity during periods of positive and negative demand shocks. Importantly, this pattern emerges solely as a result of firms’ strategic interaction in output markets. We show that the U-shaped relation between the state of demand and the propensity of firms to merge, documented in past studies, is driven by horizontal mergers in industries that are: (1) relatively more concentrated, (2) characterized by relatively strong competitive interaction among firms, and (3) characterized by relatively low merger-related operating synergies and restructuring costs. The empirical evidence, based on parametric and semi-parametric regression analyses, is consistent with these predictions.",
+  "pdf": "papers/a-theory-of-strategic-mergers.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "a-theory-of-merger-driven-ipos",
+  "title": "A theory of merger-driven IPOs",
+  "status": "published",
+  "journal": "Journal of Financial and Quantitative Analysis",
+  "detail": "46 (5), October 2011",
+  "year": 2011,
+  "month": 10,
+  "order": 31,
+  "coauthors": [
+   "Jim Hsieh",
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "IPOs",
+   "M&As",
+   "Real options"
+  ],
+  "abstract": "We propose a model that links a firm’s decision to go public with its subsequent takeover strategy. A private bidder does not know a firm’s true valuation, which affects its gain from a potential takeover. Consequently, a private bidder pursues a suboptimal restructuring policy. An alternative route is to complete an initial public offering (IPO) first. An IPO reduces valuation uncertainty, leading to a more efficient acquisition strategy, therefore enhancing firm value. We calibrate the model using data on IPOs and mergers and acquisitions (M&As). The resulting comparative statics generate several novel qualitative and quantitative predictions, which complement the predictions of other theories linking IPOs and M&As. For example, the time it takes a newly public firm to attempt an acquisition of another firm is expected to increase in the degree of valuation uncertainty prior to the firm’s IPO and in the cost of going public, and it is expected to decrease in the valuation surprise realized at the time of the IPO. We find strong empirical support for the model’s predictions.",
+  "pdf": "papers/a-theory-of-merger-driven-ipos.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "understanding-investor-sentiment-the-case-of-soccer",
+  "title": "Understanding investor sentiment: The case of soccer",
+  "status": "published",
+  "journal": "Financial Management",
+  "detail": "40 (2), July 2011",
+  "year": 2011,
+  "month": 7,
+  "order": 32,
+  "coauthors": [
+   "Gennaro Bernile"
+  ],
+  "area": [
+   "Asset pricing"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Investor sentiment"
+  ],
+  "abstract": "We examine the extent to which the stock market’s inefficient responses to resolutions of uncertainty depend on investors’ biased ex-ante beliefs regarding the probability distribution of future event outcomes or their ex-post irrational reactions to these outcomes. We use a sample of publicly traded European soccer clubs and analyze their returns around important matches. Using a novel proxy for investors’ expectations based on contracts traded on betting exchanges (prediction markets), we find that within our sample, investor sentiment is attributable, in part, to a systematic bias in investors’ ex-ante expectations. Investors are overly optimistic about their teams’ prospects ex-ante and, on average, end up disappointed ex-post, leading to negative postgame abnormal returns. Our evidence may have important implications for firms’ investment decisions and corporate control transactions.",
+  "pdf": "papers/understanding-investor-sentiment-the-case-of-soccer.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "strategic-ipos-and-product-market-competition",
+  "title": "Strategic IPOs and product market competition",
+  "status": "published",
+  "journal": "Journal of Financial Economics",
+  "detail": "100 (1), April 2011",
+  "year": 2011,
+  "month": 4,
+  "order": 33,
+  "coauthors": [
+   "Jiri Chod"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Competition",
+   "IPOs"
+  ],
+  "abstract": "We examine firms’ incentives to go public in the presence of product market competition. As a result of their greater ability to diversify idiosyncratic risk in the capital market, public firms’ owners tolerate higher profit variability than owners of private firms. Consequently, public firms adopt riskier and more aggressive output market strategies than private firms, which improves the competitive position of the former vis-a-vis the latter. This strategic benefit of being public, and thus, the proportion of public firms in an industry, is shown to be positively related to the degree of competitive interaction among firms in the output market, to demand uncertainty, and to the idiosyncratic portion of this uncertainty. Additional empirical predictions concern the effect of a firm’s initial public offering on its market share and on its rivals’ valuations. We test the model’s predictions and find empirical support for most of them.",
+  "pdf": "papers/strategic-ipos-and-product-market-competition.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "accelerated-investment-effect-of-risky-debt",
+  "title": "Accelerated investment effect of risky debt",
+  "status": "published",
+  "journal": "Journal of Banking and Finance",
+  "detail": "34 (11), November 2010",
+  "year": 2010,
+  "month": 11,
+  "order": 34,
+  "coauthors": [
+   "Alexei Zhdanov"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Capital structure",
+   "Corporate investment",
+   "Real options"
+  ],
+  "abstract": "In this paper we examine a new effect of risky debt on a firm’s investment strategy. We call this effect \"accelerated investment”. It stems from a potential loss of investment option in the event of default. The possibility of default reduces the value of the option to wait and provides equity holders with an incentive to speed up investment. As a result, in the absence of wealth expropriation by a levered firm’s debt holders, its shareholders exercise their investment option earlier than the shareholders of an otherwise identical all-equity firm. This result is at odds with the generally accepted intuition that in the absence of potential wealth transfers and taxes the shareholders of a levered firm would follow the same investment policy as that of an unlevered firm. In addition to providing various illustrations of the accelerated investment effect, we relate its magnitude to the presence of competition for investment opportunities.",
+  "pdf": "papers/accelerated-investment-effect-of-risky-debt.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "target-leverage-and-the-costs-of-issuing-seasoned-equity",
+  "title": "Target leverage and the costs of issuing seasoned equity",
+  "status": "published",
+  "journal": "Finance Research Letters",
+  "detail": "7 (1), February 2010",
+  "year": 2010,
+  "month": 2,
+  "order": 35,
+  "coauthors": [],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital structure",
+   "Financial constraints",
+   "SEOs"
+  ],
+  "abstract": "In this paper, I examine the relation between the direct costs of issuing seasoned equity (SEO gross spreads) and the change in deviation of firms’ leverage ratios from their estimated targets following SEOs. If underwriters have bargaining power vis-a-vis issuing firms in setting SEO fees and if the tradeoff theory of capital structure holds, then SEO fees should be negatively related to the post-SEO change in absolute deviation of firms’ leverage ratios from targets. I find that this relation is indeed negative and economically and statistically significant, especially in cases in which underwriters have relatively high bargaining power, suggesting that one of the important determinants of SEO fees is the change in firms’ absolute deviations from their target leverage as a result of issuing seasoned equity, and that underwriters are able to capture part of the value created by firms moving towards their leverage targets.",
+  "pdf": "papers/target-leverage-and-the-costs-of-issuing-seasoned-equity.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "the-new-issues-puzzle-testing-the-investment-based-explanation",
+  "title": "The new issues puzzle: Testing the investment-based explanation",
+  "status": "published",
+  "journal": "Review of Financial Studies",
+  "detail": "21 (6), November 2008",
+  "year": 2008,
+  "month": 11,
+  "order": 36,
+  "coauthors": [
+   "Le Sun",
+   "Lu Zhang"
+  ],
+  "area": [
+   "Asset pricing"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Corporate investment",
+   "IPOs",
+   "Real options",
+   "SEOs"
+  ],
+  "abstract": "An investment factor, long in low-investment stocks and short in high-investment stocks, helps explain the new issues puzzle. Adding the investment factor into standard factor regressions reduces the SEO underperformance by about 75%, the IPO underperformance by 80%, the underperformance following convertible debt offerings by 50%, and Daniel and Titman’s (2006) composite issuance effect by 40%. The reason is that issuers invest more than nonissuers, and the investment factor earns a significantly positive average return of 0.57% per month.",
+  "pdf": "papers/the-new-issues-puzzle-testing-the-investment-based-explanation.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "costly-external-financing-investment-timing-and-investmentcash-f",
+  "title": "Costly external financing, investment timing, and investment–cash flow sensitivity",
+  "status": "published",
+  "journal": "Journal of Corporate Finance",
+  "detail": "13 (5), December 2007",
+  "year": 2007,
+  "month": 12,
+  "order": 37,
+  "coauthors": [],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Cash",
+   "Corporate investment",
+   "Financial constraints"
+  ],
+  "abstract": "This paper examines the effects of costly external financing on the optimal timing of a firm’s investment. By altering the optimal investment timing, costly financing affects current investment and the sensitivity of investment to internal cash flow. Importantly, the relation between the cost of external funds and investment–cash flow sensitivity is non-monotonic. Investment–cash flow sensitivity is decreasing in the cost of external financing when it is relatively low and is increasing in the financing cost when it is high. Empirical tests examining investment–cash flow sensitivities within groups of firms classified by proxies for their costs of external funds provide evidence consistent with the model. The model and the empirical results complement recent studies by Cleary, Povel and Raith [Cleary, S., Povel, P. and Raith, M., 2007. The U-shaped investment curve: theory and evidence, Journal of Financial and Quantitative Analysis 42, 1–39.] and Almeida and Campello [Almeida, H. and Campello, M., in press, Financial constraints, asset tangibility and corporate investment, Review of Financial Studies.] that show a non-monotonic relation between firms’ investment and the availability of internal funds.",
+  "pdf": "papers/costly-external-financing-investment-timing-and-investmentcash-f.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "strategic-cost-of-diversification",
+  "title": "Strategic cost of diversification",
+  "status": "published",
+  "journal": "Review of Financial Studies",
+  "detail": "20 (6), November 2007",
+  "year": 2007,
+  "month": 11,
+  "order": 38,
+  "coauthors": [],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Capital structure",
+   "Corp. diversification"
+  ],
+  "abstract": "This article proposes a new explanation for the large cross-sectional variation in the excess values of diversified firms. The model applies the idea of shareholders’ limited liability affecting firms’ output market strategies to the analysis of financial and operating choices of conglomerates. The inability of conglomerates to commit to unconstrained optimal operating strategies, following from the lack of flexibility in choosing their divisions’ capital structures, reduces their value. Thus, the model highlights a new type of inefficiency of the conglomerate organizational structure, which is suboptimal financing. The predictions of the model are generally supported by the data.",
+  "pdf": "papers/strategic-cost-of-diversification.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "the-size-of-venture-capital-and-private-equity-fund-portfolios",
+  "title": "The size of venture capital and private equity fund portfolios",
+  "status": "published",
+  "journal": "Journal of Corporate Finance",
+  "detail": "13 (4), September 2007",
+  "year": 2007,
+  "month": 9,
+  "order": 39,
+  "coauthors": [
+   "Gennaro Bernile",
+   "Douglas Cumming"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Private equity",
+   "Venture capital"
+  ],
+  "abstract": "We propose a model that examines the optimal size of venture capital and private equity fund portfolios. The relationship between a VC and entrepreneurs is characterized by double-sided moral hazard, which causes the VC to trade off larger portfolios against lower values of portfolio companies. We analyze the structural relations between the VC’s optimal portfolio structure and entrepreneurs’ and VC’s productivities, their disutilities of effort, the value of a successful project, and the required initial investment in a venture. We also test the model’s predictions using a small proprietary dataset collected through a survey targeted to VC and private equity funds worldwide.",
+  "pdf": "papers/the-size-of-venture-capital-and-private-equity-fund-portfolios.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "capital-structure-and-interaction-among-firms-in-output-markets",
+  "title": "Capital structure and interaction among firms in output markets: Theory and evidence",
+  "status": "published",
+  "journal": "Journal of Business",
+  "detail": "79 (5), September 2006",
+  "year": 2006,
+  "month": 9,
+  "order": 40,
+  "coauthors": [],
+  "area": [
+   "Corporate finance",
+   "Industrial org"
+  ],
+  "method": [
+   "Empirics",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Capital structure",
+   "Competition"
+  ],
+  "abstract": "I develop a simple model that examines the relations between the extent of competitive interaction among firms in output markets, their capital structures, and the aggressiveness of their operating strategies. A firm’s optimal leverage is related to the degree to which its operating strategy affects its rivals’ value functions and resulting optimal output market choices. This relation is positive, regardless of whether the competition in output markets is in strategic substitutes or in strategic complements. I test the model’s prediction using two proxies for the extent of competitive interaction among firms. The empirical evidence provides support for the model.",
+  "pdf": "papers/capital-structure-and-interaction-among-firms-in-output-markets.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "just-in-time-liquidity-active-market-making-in-passive-liquidity",
+  "title": "Just-in-time liquidity: Active market making in passive liquidity pools",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": -4,
+  "coauthors": [],
+  "area": [
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Decentralized finance",
+   "Exchanges",
+   "Smart contracts"
+  ],
+  "abstract": "We analyze just-in-time (JIT) liquidity provision, an active form of market making on decentralized exchanges, using the whole population of liquidity events and trades in Uniswap v3 pools on Ethereum from May 2021 to December 2025. JIT liquidity provision is highly concentrated: one liquidity provider (LP) is responsible for two-thirds of all JIT positions. Main JIT LPs are affiliated with Ethereum block builders and enjoy subsidized inclusions of their transaction into blocks. JIT liquidity positions capture almost the entire fee on the trades they serve and earn positive instantaneous returns. However, adjusting for the opportunity cost of largely idle capital reveals that JIT liquidity provision, as a stand-alone strategy, is inferior to lending. Thus, JIT liquidity is profitable only as an add-on to other strategies, leaving capital idle most of the time. The positive externality of JIT liquidity on traders is significant: price impact of affected trades is reduced by close to ninety percent. The static effect on durable LPs’ returns is minimal. In addition, we find no evidence that JIT displaces durable liquidity.",
+  "pdf": "papers/just-in-time-liquidity-active-market-making-in-passive-liquidity.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "noisy-information-sharing-theory-experiment-and-blockchain-imple",
+  "title": "Noisy information sharing: Theory, experiment, and blockchain implementation",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": -3,
+  "coauthors": [
+   "Leo Bao",
+   "Lata Gangadharan",
+   "Ruize Sun"
+  ],
+  "area": [
+   "Corporate finance",
+   "Industrial org",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Experimental",
+   "Theory"
+  ],
+  "topics": [
+   "Agency",
+   "Competition",
+   "Smart contracts"
+  ],
+  "abstract": "Insufficient commitment power can impede mutually beneficial information sharing. We model this situation as two agents exchanging private information about the state of nature before independently guessing it, with a fixed prize equally split by all agents who guess correctly. We show that, when agents have limited lying costs, adding noise to information transmission can improve truth-telling, trusting, guessing accuracy, and the expected payoffs. Our laboratory experiment supports these predictions. In practice, blockchain can provide the institutional infrastructure to implement the proposed mechanism; in turn, noisy transmission can enable participation by resource-constrained agents, fostering decentralization and the platform economy.",
+  "pdf": "papers/noisy-information-sharing-theory-experiment-and-blockchain-imple.pdf",
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "cloud-computing-financing-frictions-and-corporate-innovation",
+  "title": "Cloud computing, financing frictions, and corporate innovation",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": -2,
+  "coauthors": [
+   "Xiaoyu (Ross) Zhu"
+  ],
+  "area": [
+   "Corporate finance"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Automation",
+   "Corporate investment",
+   "Financial constraints",
+   "Innovation"
+  ],
+  "abstract": "Modern innovation increasingly depends on computing capacity, yet the firms that need such capacity most may be least able to finance it. These constraints may limit innovation not only through lower R&D expenditure, but also through restricted access to the infrastructure that makes inventive labor productive, thus weakening performance. This paper studies how the shift from ownership-based IT infrastructure to leased computing services affects corporate innovation in the presence of financing frictions. Using China’s 2013 cloud-computing expansion and inventor-level patent records matched to listed firms, we find that firms with initially low access to cloud computing experience significant gains in patent quantity and citation-based patent quality. These effects also appear within individual inventors, who produce more patents and receive more citations after their firms gain improved cloud computing access. The response is stronger among financially constrained firms, consistent with cloud services lowering fixed-investment barriers to innovation-related infrastructure. Identification tests help address selection concerns. Mechanism tests show a broad response: treated firms increase R&D investment and technical labor, improve innovation efficiency, expand inventor teams, attract new inventors, and retain existing inventive talent. Cloud-related patenting also rises, linking the response more directly to cloud use. Finally, treated firms experience productivity gains along with increases in investment and sales. The findings suggest that leased computing services reshape innovation production by easing infrastructure-related financing constraints and reallocating inventive activity within firms.",
+  "pdf": null,
+  "placeholder_pdf": false
+ },
+ {
+  "slug": "networks-of-misconduct-social-media-networks-and-asset-prices-in",
+  "title": "Networks of misconduct: Social media networks and asset prices in cryptocurrency markets",
+  "status": "working",
+  "journal": "",
+  "detail": "",
+  "year": null,
+  "month": 0,
+  "order": -1,
+  "coauthors": [
+   "Charis Eleftheriou",
+   "Demetris Koursaros",
+   "Christodoulos Louca",
+   "Roni Michaely"
+  ],
+  "area": [
+   "Asset pricing",
+   "Blockchain/crypto"
+  ],
+  "method": [
+   "Empirics"
+  ],
+  "topics": [
+   "Capital markets",
+   "Investor sentiment",
+   "Social media"
+  ],
+  "abstract": "We construct a user-level measure of enforcement exposure in cryptocurrency markets based on each user’s network proximity to accounts previously linked to SEC enforcement or investigative matters. The measure identifies at-risk users well in advance of enforcement action and predicts future SEC enforcement. Users with high scores employ more promotional language, urgency and pressure cues, and occupy more central positions in networks containing influential and automated accounts. Their net positive communication clusters in short-lived market episodes of elevated trading activity and price appreciation beginning before the posts followed by rapid reversal, alongside temporarily elevated volatility. The findings show that regulatory risk is embedded in social-network topology and manifests in economically meaningful market dynamics.",
+  "pdf": "papers/networks-of-misconduct-social-media-networks-and-asset-prices-in.pdf",
+  "placeholder_pdf": false
+ }
+]
