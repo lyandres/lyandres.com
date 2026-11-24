@@ -116,7 +116,7 @@ def thumbs(p, base=""):
 
 
 # Changes whenever the stylesheet or script changes, so browsers never show a stale copy.
-ASSET_V = "%d" % max(os.path.getmtime(os.path.join(ROOT, "assets", f)) for f in ("style.css", "site.js"))
+ASSET_V = "%d" % max(os.path.getmtime(os.path.join(ROOT, "assets", f)) for f in ("style.css", "site.js", "favicon.svg", "favicon-64.png"))
 
 
 def page(title, desc, active, body, base=""):
@@ -136,7 +136,9 @@ def page(title, desc, active, body, base=""):
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:image" content="{site['domain']}/assets/portrait.jpg">
 <script>try{{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
-<link rel="icon" href="{base}assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{base}assets/favicon.svg?v={ASSET_V}" type="image/svg+xml">
+<link rel="icon" href="{base}assets/favicon-64.png?v={ASSET_V}" type="image/png" sizes="64x64">
+<link rel="apple-touch-icon" href="{base}assets/apple-touch-icon.png?v={ASSET_V}">
 <link rel="stylesheet" href="{base}assets/style.css?v={ASSET_V}">
 </head>
 <body>

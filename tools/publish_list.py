@@ -13,7 +13,7 @@ os.chdir(ROOT)
 papers = json.load(open("data/papers.json", encoding="utf-8"))
 pages = ["index.html", "research.html", "404.html"] + ["post/%s.html" % p["slug"] for p in papers]
 files = set(pages) | {"sitemap.xml", "robots.txt", "cv.pdf", "CNAME", ".nojekyll", ".gitignore", "README.md",
-                      "build.py", "data/site.json", "data/papers.json", "assets/portrait.jpg"}
+                      "favicon.ico", "build.py", "data/site.json", "data/papers.json", "assets/portrait.jpg"}
 files |= {"tools/" + f for f in os.listdir("tools") if not f.startswith(("__", "."))}
 for page in pages:
     text = open(page, encoding="utf-8").read()
