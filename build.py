@@ -119,6 +119,17 @@ def thumbs(p, base=""):
 ASSET_V = "%d" % max(os.path.getmtime(os.path.join(ROOT, "assets", f)) for f in ("style.css", "site.js", "favicon.svg", "favicon-64.png"))
 
 
+# Visitor statistics (GoatCounter): set "stats": {"goatcounter": "<code>", "since": "..."} in data/site.json.
+# With no code set, nothing is added to the pages.
+_stats = site.get("stats") or {}
+STATS_SCRIPT = STATS_LINK = ""
+if _stats.get("goatcounter"):
+    _gc = "https://%s.goatcounter.com" % _stats["goatcounter"]
+    STATS_SCRIPT = '\n<script data-goatcounter="%s/count" async src="https://gc.zgo.at/count.js"></script>' % _gc
+    STATS_LINK = '\n  <a class="stats" href="%s" target="_blank" rel="noopener">Visitor statistics</a>%s' % (
+        _gc, ' <span class="since">(since %s)</span>' % esc(_stats["since"]) if _stats.get("since") else "")
+
+
 def page(title, desc, active, body, base=""):
     def nav(href, label, key):
         return '<li><a href="%s%s"%s>%s</a></li>' % (base, href, ' class="active"' if key == active else "", label)
@@ -161,10 +172,10 @@ def page(title, desc, active, body, base=""):
   <a href="{base}cv.pdf" target="_blank" rel="noopener">CV</a>
   <a href="{esc(profiles['Google Scholar'])}">Google Scholar</a>
   <a href="{esc(profiles['SSRN'])}">SSRN</a>
-  <a href="{esc(profiles['LinkedIn'])}" aria-label="LinkedIn">{LINKEDIN}</a>
+  <a href="{esc(profiles['LinkedIn'])}" aria-label="LinkedIn">{LINKEDIN}</a>{STATS_LINK}
 </footer>
 </div>
-<script src="{base}assets/site.js?v={ASSET_V}"></script>
+<script src="{base}assets/site.js?v={ASSET_V}"></script>{STATS_SCRIPT}
 </body>
 </html>
 """

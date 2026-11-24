@@ -79,6 +79,8 @@ h2.big { margin: 0 0 14px; font-size: 36px; font-weight: 600; line-height: 1.1; 
 /* Footer */
 .site-footer { display: flex; align-items: center; flex-wrap: wrap; gap: 20px; border-top: 1px solid var(--line); margin-top: 20px; padding: 24px 0 60px; font-size: 16px; }
 .site-footer .copy { letter-spacing: .8px; margin-right: 22px; }
+.site-footer .stats { margin-left: auto; }
+.site-footer .since { font-size: 14px; opacity: .75; margin-left: -14px; }
 .site-footer svg { display: block; width: 22px; height: 22px; fill: var(--accent); }
 
 /* Research: tag menus in a left column, paper list to the right */
